@@ -1,1 +1,1 @@
-think 3.2
+think main
